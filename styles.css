@@ -31,5 +31,11 @@
       .invert {
         filter: invert(100%);
       } */
-/* -lesson-task-2- */
+/* -lesson-task-2-
+.main-video {
+        width: 500px;
+        display: block;
+        margin: auto;
+        margin-top: 200px;
+      } */
 /* -lesson-task-3- */
